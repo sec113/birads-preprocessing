@@ -1,8 +1,6 @@
 __author__ = 'SergioMC'
 
-import csv
 import glob
-from itertools import groupby
 from os.path import join, split
 
 
